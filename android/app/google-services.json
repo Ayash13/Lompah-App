@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "531056872253",
+    "project_id": "project-akhir-20125",
+    "storage_bucket": "project-akhir-20125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531056872253:android:9ca14218601c353b759354",
+        "android_client_info": {
+          "package_name": "com.example.final_project_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531056872253-snp4pbac6t3hv58ejuqvsjtg5iiovlfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project_2023",
+            "certificate_hash": "3d4db635fc392956ab6740916c6bfb332b8c02fa"
+          }
+        },
+        {
+          "client_id": "531056872253-7rbabe4goeo2dfbpr9t24po23hgdka61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0TX7UUv8iLi-bF36RtEl36MQRbPW6wWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531056872253-7rbabe4goeo2dfbpr9t24po23hgdka61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531056872253-2v9gpls3tludbkppd0tc6bq1j7irovlr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalProject2023"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

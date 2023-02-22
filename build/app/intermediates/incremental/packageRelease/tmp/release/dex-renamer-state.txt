@@ -1,0 +1,4 @@
+#Wed Feb 01 23:43:00 WIB 2023
+base.0=/Users/ayash/StudioProjects/final_project_2023/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

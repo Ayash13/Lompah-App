@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">531056872253-7rbabe4goeo2dfbpr9t24po23hgdka61.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">531056872253</string>
+    <string name="google_api_key" translatable="false">AIzaSyB0TX7UUv8iLi-bF36RtEl36MQRbPW6wWQ</string>
+    <string name="google_app_id" translatable="false">1:531056872253:android:9ca14218601c353b759354</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB0TX7UUv8iLi-bF36RtEl36MQRbPW6wWQ</string>
+    <string name="google_storage_bucket" translatable="false">project-akhir-20125.appspot.com</string>
+    <string name="project_id" translatable="false">project-akhir-20125</string>
+</resources>

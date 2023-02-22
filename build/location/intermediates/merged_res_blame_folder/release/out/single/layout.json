@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_media.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/b5a64db87da9221a382d34190796208c/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/b5a64db87da9221a382d34190796208c/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/b5a64db87da9221a382d34190796208c/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_big_media.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_media_action.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/b5a64db87da9221a382d34190796208c/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/b5a64db87da9221a382d34190796208c/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/b5a64db87da9221a382d34190796208c/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/final_project_2023/build/location/intermediates/merged_res/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/559d41ccc0e44afb1d21af54a02e32b6/transformed/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    }
+]
